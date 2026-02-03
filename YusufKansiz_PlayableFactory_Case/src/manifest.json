@@ -1,0 +1,23 @@
+{
+  "bundles": [
+    {
+      "name": "game",
+      "assets": [
+        { "name": "background", "srcs": "assets/bg.png" },
+        { "name": "circle", "srcs": "assets/circle.png" },
+        { "name": "shuffle", "srcs": "assets/suffle.png" },
+        
+        { "name": "orange_pane", "srcs": "assets/orange-pane.png" },
+        { "name": "button_bg", "srcs": "assets/gray-pane.png" },
+        { "name": "hand", "srcs": "assets/hand.png" },
+        { "name": "green_pane", "srcs": "assets/green-pane.png" }
+      ]
+    },
+    {
+      "name": "fonts",
+      "assets": [
+        { "name": "Sniglet-Regular", "srcs": "assets/Sniglet-Regular.ttf" }
+      ]
+    }
+  ]
+}

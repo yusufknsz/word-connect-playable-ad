@@ -1,0 +1,21 @@
+# Bağımlılıkları Yükleme (ÇOK ÖNEMLİ)
+node_modules/
+
+# Mac Bilgisayar Sistem Dosyaları (Gereksiz)
+.DS_Store
+
+# Windows Sistem Dosyaları (Gereksiz)
+Thumbs.db
+
+# Build (Derleme) Çıktıları
+# (Genelde kaynak kodda tutulmaz, her build'de yeniden oluşur)
+dist/
+build/
+
+# Log dosyaları (Hata kayıtları)
+*.log
+npm-debug.log*
+
+# Editör ayarları
+.vscode/
+.idea/
