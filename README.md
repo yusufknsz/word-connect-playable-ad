@@ -20,4 +20,4 @@ This project is a **Playable Ad** prototype developed as a case study for Playab
 * Clean code principles and OOP structure used for maintainability.
 
 ## 👨‍💻 Developer
-Developed by  Yusuf Kansız
+Developed by  **Yusuf Kansız**.
